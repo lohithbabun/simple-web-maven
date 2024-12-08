@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>
-		yes fuck !
+		yes  !
 	</title>
 </head>
 <body>
